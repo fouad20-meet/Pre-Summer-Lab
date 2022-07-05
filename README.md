@@ -34,7 +34,7 @@ In `main.py` -
         - **Remember:** `for i in dict`, in this case the i will be the key.
     - After the loop return lst
 
-2. Call the function `all_food` with the dictionary you get after the while loop in part 1.
+2. Call the function `all_food` with the dictionary you get after the while loop in part 1, and print the result.
 
 
 ##### Great job!
