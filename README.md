@@ -16,10 +16,16 @@ In `main.py` -
   
 2. Creating a while loop:
     - Take an input from the user and display the message: ` "Enter any key to continue, and 'end' to stop: " ` and assign it to the variable x.
-    - Create a while loop that runs while x is equal to ` "end" `.
+    - Create a while loop that runs while x is not equal to ` "end" `.
     - **Remember to take x again as an input inside the while loop in order not to have an endless loop**
+    
+3. Adding to the dictionary:
+    In the `while` loop -
+    - Take name as an input from the user, and assign it to the variable `name`.
+    - Take favorite food as an input from the user, and assign it to the variable `fav_food`.
+    - Add to the dictionary a new key and value, with `name` as the key and `fav_food` as the value.
 
-**Good Job! Remember to show your wonderful work to your Instructors and TAs.**
+**Good Job! Remember to show your wonderful work to your Instructor.**
 
 ### Part 2: 
 In cryptography, the easiest form of a cipher is known as a **[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)**.  
