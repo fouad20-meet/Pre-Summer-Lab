@@ -28,16 +28,15 @@ In `main.py` -
 **Good Job! Remember to show your wonderful work to your Instructor.**
 
 ### Part 2: 
-1. Add this dictionary to your code.
-2. Write a **function** that takes a `string` as a parameter and returns the same string but shifted by 3 letters - according to the Ceasar cipher. 
-  - Use the encoder_caesar dictionary.
-  - Example: `"meet"` - should be returned as `"phhw"`.
-  - *Hint:* check how to print the value of a specific key in a python dictionary.
+1. Create a funtion called `all_food` that takes a `dictionary` as an input:
+    - Create an empty list called `lst`.
+    - use a `for` loop to loop over the dictionary and add each value to `lst`
+        - **Remember:** `for i in dict`, in this case the i will be the key.
+    - After the loop return lst
+
+2. Call the function `all_food` with the dictionary you get after the while loop in part 1.
 
 
 ##### Great job!
 ##### Call your Instructor to check your completed tasks
  
-
-
-<img src="https://i.stack.imgur.com/D3ypD.gif" width="350">
