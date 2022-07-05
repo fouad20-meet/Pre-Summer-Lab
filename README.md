@@ -22,8 +22,8 @@ In `main.py` -
 3. Adding to the dictionary:
     In the `while` loop -
     - Take name as an input from the user, and assign it to the variable `name`.
-    - Take favorite food as an input from the user, and assign it to the variable `fav_food`.
-    - Add to the dictionary a new key and value, with `name` as the key and `fav_food` as the value.
+    - Take favorite food as an input from the user, and assign it to the variable `food`.
+    - Add to the dictionary a new key and value, with `name` as the key and `food` as the value.
 
 **Good Job! Remember to show your wonderful work to your Instructor.**
 
