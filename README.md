@@ -12,12 +12,12 @@ During this lab:
 ### Part 1: 
 In `main.py` -
 1. Define an empty dictionary and call it `fav_food`:
-  - This dictionary will contain names as keys, and different food as values.
+    - This dictionary will contain names as keys, and different food as values.
   
 2. Creating a while loop:
-  - Take an input from the user and display the message: ` "Enter any key to continue, and 'end' to stop: " ` and assign it to the variable x.
-  - Create a while loop that runs while x is equal to ` "end" `.
-  - **Remember to take x again as an input in order not to have an endless loop**
+    - Take an input from the user and display the message: ` "Enter any key to continue, and 'end' to stop: " ` and assign it to the variable x.
+    - Create a while loop that runs while x is equal to ` "end" `.
+    - **Remember to take x again as an input in order not to have an endless loop**
 
 **Good Job! Remember to show your wonderful work to your Instructors and TAs.**
 
