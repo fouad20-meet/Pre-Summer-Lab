@@ -1,4 +1,4 @@
-# Pre Summer Python Review 2 Lab
+# Pre Summer Python Review Lab
 
 ## Objective: 
 During this lab: 
