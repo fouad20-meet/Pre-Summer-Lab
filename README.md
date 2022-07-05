@@ -1,4 +1,4 @@
-# Y1 Yearlong 2020/21 - Session 8, Python Review 2 Lab
+# Pre Summer Python Review 2 Lab
 
 ## Objective: 
 During this lab: 
