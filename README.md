@@ -17,7 +17,7 @@ In `main.py` -
 2. Creating a while loop:
     - Take an input from the user and display the message: ` "Enter any key to continue, and 'end' to stop: " ` and assign it to the variable x.
     - Create a while loop that runs while x is equal to ` "end" `.
-    - **Remember to take x again as an input in order not to have an endless loop**
+    - **Remember to take x again as an input inside the while loop in order not to have an endless loop**
 
 **Good Job! Remember to show your wonderful work to your Instructors and TAs.**
 
